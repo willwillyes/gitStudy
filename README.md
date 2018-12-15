@@ -10,3 +10,5 @@ v3:check command reset .
 v4:edit by windows NotePad++;
 
 v4:edit by gitHub browse editor;
+
+v5:edit by gitHub browse editor2;
