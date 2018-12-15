@@ -14,3 +14,5 @@ v4:edit by gitHub browse editor;
 v5:edit by gitHub browse editor2;
 
 v6:edit by gitHub browse editor3;
+
+v7:edit by windows NotePad++2;
