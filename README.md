@@ -1,4 +1,6 @@
 # gitStudy
+v11:edit by gitHub browse editor6;
+
 The first git study 
 
 v1: aaaaa
