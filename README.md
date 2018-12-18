@@ -22,3 +22,5 @@ v7:edit by windows NotePad++2;
 v8:edit by gitHub browse editor4;
 
 v10:edit by gitHub browse editor5;
+
+v12:edit by windows NotePad++v12;
